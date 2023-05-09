@@ -1,0 +1,1 @@
+# gl_fsd0423_javascript_class
